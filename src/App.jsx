@@ -2,6 +2,7 @@ import{useState,useEffect} from "react"
 import Header from "./components/Header"
 import "./css/global.css"
 import "./css/estilo.css"
+import Resultado from "./components/Resultado"
 
 
 function App() {
